@@ -1,0 +1,10 @@
+Package: com.phucdo.badgebreathing
+Name: Badge Breathing
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Phuc Do
+Author: Phuc Do
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Version: 0.0.1
+Installed-Size: 168
