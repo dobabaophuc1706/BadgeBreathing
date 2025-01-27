@@ -16,6 +16,10 @@ https://github.com/dobabaophuc1706/BadgeBreathing.git
 cd path/to/tweak/
 ```
 - Run **build.sh**
+- Or just run:
+```
+git clone https://github.com/dobabaophuc1706/BadgeBreathing.git && cd BadgeBreathing && make package
+```
 
 ### Support:
 - Rootful Jailbreak.
